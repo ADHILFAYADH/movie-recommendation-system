@@ -35,3 +35,7 @@ A movie recommendation application built using Python and machine learning techn
 - `movies.csv` — Movie dataset, if included.
 - `requirements.txt` — Required Python libraries.
 
+- ## Application Screenshot
+
+![Movie Recommendation System](movie-recommendation-demo.png)
+
