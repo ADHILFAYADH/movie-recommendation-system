@@ -37,5 +37,5 @@ A movie recommendation application built using Python and machine learning techn
 
 - ## Application Screenshot
 
-![Movie Recommendation System](movie-recommendation-demo.png)
+![Movie Recommendation System](movie-recommendation-demo.png.png)
 
